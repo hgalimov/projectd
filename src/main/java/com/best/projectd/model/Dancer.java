@@ -9,5 +9,6 @@ public class Dancer {
 	private Long id;
 	private String firstName;
 	private String lastName;
+	private Style style;
 	
 }
